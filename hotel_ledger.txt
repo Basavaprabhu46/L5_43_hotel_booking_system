@@ -1,0 +1,1 @@
+{'101': {'type': 'Deluxe', 'price': 150.0, 'is_booked': True}, '102': {'type': 'Suite', 'price': 300.0, 'is_booked': False}, '103': {'type': 'Standard', 'price': 90.0, 'is_booked': False}}
